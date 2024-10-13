@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Java, ThreeJS**
 
-- 👨‍💻 All of my projects are available at [https://soloist.ai/deepankarsahoo](https://soloist.ai/deepankarsahoo)
+- 👨‍💻 All of my projects are available at [GITHUB](https://github.com/deepankar68?tab=repositories)
 
 - 📫 How to reach me **deepankarsahoo68@gmail.com**
 
